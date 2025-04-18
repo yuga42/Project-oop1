@@ -1,0 +1,1 @@
+A lightweight console application for basic veterinary clinic operations, allowing users to track patient animals and appointments through simple Java I/O. The program provides a foundation that can be extended with database connectivity (JDBC) or GUI (Swing/JavaFX) for more advanced functionality.
